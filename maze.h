@@ -1,0 +1,3 @@
+
+void lm();
+void menu();
